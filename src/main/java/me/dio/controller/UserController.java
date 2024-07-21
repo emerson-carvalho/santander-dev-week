@@ -1,6 +1,5 @@
 package me.dio.controller;
 
-import jakarta.websocket.server.PathParam;
 import me.dio.domain.model.User;
 import me.dio.service.UserService;
 import org.springframework.http.ResponseEntity;
